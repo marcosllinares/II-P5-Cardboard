@@ -15,7 +15,7 @@ Por último, se añadió un objeto “recuperador” (imán) controlado por Magn
 
 ---
 
-![](https://imgur.com/W1C7J0C.gif)
+![](Unity_hdEGEMZNdh.gif)
 
 Scripts
 
