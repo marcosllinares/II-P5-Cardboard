@@ -95,3 +95,34 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Android specific files
+*.keystore
+*.jks
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+
+# NDK
+*.so
+*.a
+
+# Android build outputs
+*.obb
+*.symbols.zip
+
+# Burst compiled files (Android)
+/[Aa]ssets/Plugins/Android/libs/
+*.so.meta
+
+# IL2CPP build artifacts
+il2cppOutput/
+backtrace/
+
+# Native plugins
+/[Aa]ssets/Plugins/Android/*.aar.meta
+/[Aa]ssets/Plugins/Android/*.jar.meta
